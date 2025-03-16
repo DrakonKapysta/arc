@@ -1,0 +1,29 @@
+[16Mar2025 17:22:08.225] [main/INFO] [Arclight/]: 
+
+       ___           ___     __   /\
+      /   | ________/ (_)__ / /  / /
+     / /| |/ __/ __/ / / _ / _ \/__/
+    / ___ / / / /_/ / / / / // / /
+   /_/  |/_/  \__/_/_/\_ /_//_/ /
+                     /__/     \/
+
+    Version 角 (Horn) / arclight-1.19.2-1.0.6-SNAPSHOT-9e9f4ec
+    Build Date 2024-10-19 14:08:41
+
+[16Mar2025 17:22:08.404] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.4, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[16Mar2025 17:22:08.407] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 5.15.0-46-generic
+[16Mar2025 17:22:08.599] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/root/server_arc/arc/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2396!/ Service=ModLauncher Env=SERVER
+[16Mar2025 17:22:08.667] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /root/server_arc/arc/config/fml.toml is not correct. Correcting
+[16Mar2025 17:22:08.685] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[16Mar2025 17:22:09.634] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/server_arc/arc/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.4/fmlcore-1.19.2-43.4.4.jar is missing mods.toml file
+[16Mar2025 17:22:09.637] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/server_arc/arc/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.4/javafmllanguage-1.19.2-43.4.4.jar is missing mods.toml file
+[16Mar2025 17:22:09.639] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/server_arc/arc/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.4/lowcodelanguage-1.19.2-43.4.4.jar is missing mods.toml file
+[16Mar2025 17:22:09.642] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/server_arc/arc/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.4/mclanguage-1.19.2-43.4.4.jar is missing mods.toml file
+[16Mar2025 17:22:09.780] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[16Mar2025 17:22:12.505] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.common.mod.ArclightConnector]
+[16Mar2025 17:22:12.621] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16Mar2025 17:22:12.626] [main/INFO] [Arclight/]: Arclight core mixin added.
+[16Mar2025 17:22:12.628] [main/INFO] [Arclight/]: Arclight optimization mixin added.
+[16Mar2025 17:22:12.657] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[16Mar2025 17:22:18.807] [main/WARN] [net.minecraft.server.Eula/]: Failed to load eula.txt
+[16Mar2025 17:22:18.845] [main/INFO] [net.minecraft.server.Main/]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
