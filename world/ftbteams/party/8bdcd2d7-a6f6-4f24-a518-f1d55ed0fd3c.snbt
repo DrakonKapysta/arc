@@ -1,0 +1,36 @@
+{
+	id: "8bdcd2d7-a6f6-4f24-a518-f1d55ed0fd3c"
+	type: "party"
+	owner: "5e53d8e9-ddee-3694-b130-6809b8dd71b8"
+	ranks: {
+		19437362-95d7-3199-83be-6931e4232507: "member"
+		0cb2300c-b58e-35ba-8468-b0d7ae363a14: "member"
+		5e53d8e9-ddee-3694-b130-6809b8dd71b8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ВещіБога"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59B7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1742151866922L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"_IceCold\"}]}" }
+		{ from: "5e53d8e9-ddee-3694-b130-6809b8dd71b8", date: 1742151866927L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Glechik\"}]}" }
+		{ from: "5e53d8e9-ddee-3694-b130-6809b8dd71b8", date: 1742151866928L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"PoVene\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1742151871830L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"PoVene\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1742151951034L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Glechik\"}]}" }
+	]
+	extra: { }
+}
